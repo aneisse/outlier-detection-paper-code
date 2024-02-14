@@ -13,7 +13,7 @@ Authored by:
   - [José Ivo Ribeiro Júnior](http://lattes.cnpq.br/2332963811685838)
   - [Paulo Roberto Cecon](http://lattes.cnpq.br/4525265173613927)
   
-Submitted to the *Statistical Methods in Medical Research*.
+Submitted to the *Journal of Basic and Applied Sciences (AJBAS)*.
 
 ### Data availability
 
