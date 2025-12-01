@@ -51,9 +51,7 @@ The scripts will generate the results and graphs presented in the paper.
 
 If you use the code or findings from this study, please cite our paper:
 
-> Nascimento, J. S., Sediyama, J. A. S., Neisse, A. C., Neto, T. A. S., Emiliano, P. C., Ribeiro Júnior, J. I., & Cecon, P. R. (Year). Evaluation and comparison of outliers detection methods: a simulation study. *Australian Journal of Basic and Applied Sciences*.
-
-*(Note: Please update the year and publication details once the paper is published.)*
+> Nascimento, J. S., Sediyama, J. A. S., Neisse, A. C., Neto, T. A. S., Emiliano, P. C., Ribeiro Júnior, J. I., & Cecon, P. R. (2024). Evaluation and comparison of outliers detection methods: a simulation study. *Australian Journal of Basic and Applied Sciences*.
 
 ## License
 
