@@ -13,7 +13,7 @@ This repository contains the reproducible code for the paper "Evaluation and com
     -   [Paulo César Emiliano](http://lattes.cnpq.br/8618494924305058)
     -   [José Ivo Ribeiro Júnior](http://lattes.cnpq.br/2332963811685838)
     -   [Paulo Roberto Cecon](http://lattes.cnpq.br/4525265173613927)
--   **Journal:** Submitted to the *Australian Journal of Basic and Applied Sciences (AJBAS)*. [2, 4, 9, 14, 16, 18]
+-   **Journal:** Published on the *Australian Journal of Basic and Applied Sciences (AJBAS)*. [2, 4, 9, 14, 16, 18]
 
 ### Data availability
 
